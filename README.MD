@@ -24,7 +24,7 @@ To understand the sentiment of tweets about the 2023 recession, analyze the recu
 
 ![alt text](https://github.com/Cristhian-Ninanya/2023_Recession_Sentiment_Analysis/blob/main/Images/Dataset.jpg?raw=true)
 
-## Public Sentiment:
+## Sentiment Analysis:
 
 ```
 	       Total	Percentage(%)
