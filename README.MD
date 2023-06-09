@@ -45,7 +45,7 @@ Neutral	3	0.51
 
 ![alt text](https://github.com/Cristhian-Ninanya/2023_Recession_Sentiment_Analysis/blob/main/Images/negative_sent.png?raw=true)
 
-**Observations:**
+## Final Observations:
 
 * The sentiment of Indians towards the possible recession of 2023 appears predominantly negative, as indicated by a significant number of negative sentiment tweets.
 
